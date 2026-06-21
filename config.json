@@ -1,0 +1,13 @@
+{
+  "user_cls": [],
+  "custom_model_path": "",
+  "conf_v": 0.15,
+  "show_conf_v": true,
+  "show_man_v": true,
+  "seg_v": false,
+  "use_custom_v": false,
+  "auto_save_on_exit": true,
+  "file_list": [],
+  "file_index": 0,
+  "all_anns": {}
+}
